@@ -51,9 +51,9 @@ order by
 ;
 
 
--- ============================ --
--- Comparation Car Transmission --
--- ============================ --
+-- ======================== --
+-- Transmission Comparation --
+-- ======================== --
 
 select
     transmission,
@@ -67,9 +67,9 @@ order by
 ;
 
 
--- ====================================== --
--- Average Fuel Consumption to Drive type --
--- ====================================== --
+-- ============================== --
+-- Drive type vs Fuel Consumption --
+-- ============================== --
 
 select
 	drive,
@@ -101,9 +101,9 @@ order by
 ;
 
 
--- ============================ --
--- Efficiency Fuel Year to Year --
--- ============================ --
+-- ======================= --
+-- Year to Year Efficiency --
+-- ======================= --
 
 select
 	brand,
@@ -135,9 +135,9 @@ order by
 ;
 
 
--- ============================================ --
--- Comparison Between Fuel and Electric Vehicle --
--- ============================================ --
+-- ======================== --
+-- Fuel VS Electric Vehicle --
+-- ======================== --
 
 select
 	fuel_type,
